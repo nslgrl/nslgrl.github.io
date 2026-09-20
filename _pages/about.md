@@ -7,13 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the Political Science Department at SUNY Binghamton. My research revolves around fiscal federalism, intergovernmental relations, crisis management, and party systems. I am particularly interested in how party systems influence vertical policy coordination between federal and state units at the local level during the COVID-19 pandemic.
+I am a Postdoctoral Researcher at the Université de Montréal, where I am affiliated with the School of Public Health (ESPUM), the Centre de recherche en santé publique (CReSP), and the Centre for the Study of Democratic Citizenship (CSDC). I received my PhD in Political Science from Binghamton University.
+
 <p style="text-indent: 20px;">
-My dissertation is grounded in second-generation fiscal federalism theory, which posits that elected policymakers prioritize their electoral concerns over altruistic motivations when setting policy strategies. My research examines how sub-national party systems encourage policymakers to share policy risks rather than shift blame. The central argument is that as party systems become more integrated, policymakers' efforts to protect or enhance their electoral positions become interconnected, leading them to coordinate their policy strategies to minimize the risk of policy failure.
-<p style="text-indent: 20px;">
-  To support my research, I utilized a novel dataset created by the <a href="https://www.openicpsr.org/openicpsr/project/123401/version/V6/view?path=/openicpsr/123401/fcr:versions/V6/data/PPI_country_m1.csv&type=file">Binghamton University COVID Lab</a>, producing Public Health Protective Policy Index across 82 countries in 15 policy categories for national and sub-national units.
+My research focuses on political institutions, federalism, and intergovernmental relations. I am particularly interested in how institutions shape the allocation of political authority, coordination across levels of government, and policy responses to crises. My current research examines institutional change, fiscal relations, territorial politics, and multilevel governance using comparative, quantitative, and computational methods.
 </p>
 
 <p style="text-indent: 20px;">
-In this project, I develop a simple model to reveal policymakers' strategies and calibrate it using dynamic panel analysis. I incorporate case studies from African decentralized systems to strengthen the panel models, focusing on Nigeria and South Africa.
+My research has appeared in edited volumes and journals including <em>Regional & Federal Studies</em>, <em>Publius: The Journal of Federalism</em>, and <em>Constitutional Political Economy</em>.
+</p>
+
 
