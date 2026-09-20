@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Onsel Gurel Bayrali / Main Page"
 title_separator          : "-"
 name                     : &name "Onsel Gurel Bayrali"
-description              : &description "Postdoctoral Researcher at Université de Montréal"
+description              : &description "Postdoctoral Researcher at the University of Montreal"
 url                      : https://nslgrl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 repository               : "nslgrl/nslgrl.github.io"
 
@@ -23,7 +23,7 @@ author:
   avatar           : "bayrali_headshot.jpg"
   name             : "Onsel Gurel Bayrali"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Researcher at Université de Montréal"
+  bio              : "Postdoctoral Researcher at the University of Montreal"
   uri              : # URL
   email            : "onsel.gurel.bayrali@umontreal.ca" 
 
