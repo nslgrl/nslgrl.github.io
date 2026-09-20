@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Onsel Gurel Bayrali / Main Page"
 title_separator          : "-"
 name                     : &name "Onsel Gurel Bayrali"
-description              : &description "PhD Candidate in Political Science Department at SUNY Binghamton"
+description              : &description "Postdoctoral Researcher at Université de Montréal"
 url                      : https://nslgrl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 repository               : "nslgrl/nslgrl.github.io"
 
@@ -23,13 +23,13 @@ author:
   avatar           : "bayrali_headshot.jpg"
   name             : "Onsel Gurel Bayrali"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate in Political Science Department at SUNY Binghamton"
+  bio              : "Postdoctoral Researcher at Université de Montréal"
   uri              : # URL
-  email            : "obayral1@binghamton.edu" 
+  email            : "onsel.gurel.bayrali@umontreal.ca" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=Ee2rwgoAAAAJ"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-1936-7035"
+  
   
   
 
