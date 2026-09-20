@@ -14,7 +14,7 @@ My research focuses on political institutions, federalism, and intergovernmental
 </p>
 
 <p style="text-indent: 20px;">
-My research has appeared in edited volumes and journals including <em>Regional & Federal Studies</em>, <em>Publius: The Journal of Federalism</em>, and <em>Constitutional Political Economy</em>.
+My research has appeared in edited volumes and journals including <em>Regional & Federal Studies</em>, <em>Publius: The Journal of Federalism</em>, <em>Third World Quarterly</em>, and <em>Constitutional Political Economy</em>.
 </p>
 
 
